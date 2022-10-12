@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+
+.first{
+    background-color: #212529;
+    padding: 20px;
+    text-align-last: right; 
+   
+}
+
+.all{
+    color:rgba(255, 255, 255, 0.55);
+    font-size: 16px;
+}
+.btn_2{
+    padding: 5px;
+}
+.btn_3{
+    padding: 0 90px 0 0;
+}
+.all:hover{
+    color: rgba(255,255,255,0.70);
+}
+#second{
+    text-align: center;
+    background-color: #0D6EFD;
+    padding: 152px;
+}
+#second h1{
+    font-size: 40px;
+    padding-bottom: 10px;
+    color: #f8f9fa;
+
+}
+#second p{
+    color: #f8f9fa;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+#second a{
+    background-color: #f8f9fa;
+    color: #212529;
+    padding: 8px 16px;
+    border-radius: 3px;
+}
+#second .btn_1:hover{
+   
+    padding: 10px 20px;
+    border-radius: 6px;
+}
+#thrid{
+    
+    color: #212529;
+    background-color: #f8f9fa;
+}
+#third h2{
+    padding-top: 9rem;
+    margin-left: 20%;
+   font-size: 32px;
+   padding-bottom: 18px;
+}
+#third p{
+    font-weight: 100;
+    margin-left: 20%;
+    font-size: 20px;
+    padding-bottom: 20px;
+    
+}
+#third ul{
+    margin-left: 22%;
+    font-size: 20px;
+}
+#third .end{
+    padding-bottom: 9rem;
+}
+#fourty{
+    color: #212529;
+    background-color: #f8f9fa;
+}
+#fourty h2{
+    padding-top: 9rem;
+    margin-left: 20%;
+    font-size: 32px;
+    padding-bottom: 18px;
+}
+#fourty p{
+    font-weight: 100;
+    margin-left: 20%;
+    font-size: 20px;
+    padding-bottom: 9rem;
+}
+#five{
+    color: #212529;
+    background-color: #fff;
+}
+#five h2{
+    padding-top: 9rem;
+    margin-left: 20%;
+    font-size: 32px;
+    padding-bottom: 18px;
+}
+#five p{
+    font-weight: 100;
+    margin-left: 20%;
+    font-size: 20px;
+    padding-bottom: 9rem;
+}
+#six{
+    background-color: #212529;
+    text-align: center;
+    color: #fff;
+    padding: 48px;
+}
+#six p{
+    font-size: 16px;
+}
